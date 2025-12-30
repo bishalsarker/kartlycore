@@ -7,6 +7,10 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>KartlyCore.Domain</Title>
     <Description>This is an internal core library for Kartly infrastructure</Description>
+    <RepositoryUrl>https://github.com/bishalsarker/kartlycore</RepositoryUrl>
+    <Authors>KartlyCore</Authors>
+    <Company>Kartly</Company>
+	<Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>

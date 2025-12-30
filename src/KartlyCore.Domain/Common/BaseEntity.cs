@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace FlyerBuy.Domain.Common
+namespace KartlyCore.Domain.Common
 {
     public abstract class BaseEntity<T> : IEntity
     {

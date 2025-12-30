@@ -1,4 +1,4 @@
-﻿namespace FlyerBuy.Domain.Common
+﻿namespace KartlyCore.Domain.Common
 {
     public interface IEntity
     {
@@ -10,3 +10,4 @@
         public bool IsDeleted { get; set; }
     }
 }
+
